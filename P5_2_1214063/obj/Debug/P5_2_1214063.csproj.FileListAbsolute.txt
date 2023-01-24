@@ -1,0 +1,12 @@
+C:\Users\user pc\source\repos\P5_2_1214063\bin\Debug\P5_2_1214063.exe.config
+C:\Users\user pc\source\repos\P5_2_1214063\bin\Debug\P5_2_1214063.exe
+C:\Users\user pc\source\repos\P5_2_1214063\bin\Debug\P5_2_1214063.pdb
+C:\Users\user pc\source\repos\P5_2_1214063\obj\Debug\P5_2_1214063.csproj.AssemblyReference.cache
+C:\Users\user pc\source\repos\P5_2_1214063\obj\Debug\P5_2_1214063.csproj.SuggestedBindingRedirects.cache
+C:\Users\user pc\source\repos\P5_2_1214063\obj\Debug\P5_2_1214063.ParentForm.resources
+C:\Users\user pc\source\repos\P5_2_1214063\obj\Debug\P5_2_1214063.Properties.Resources.resources
+C:\Users\user pc\source\repos\P5_2_1214063\obj\Debug\P5_2_1214063.csproj.GenerateResource.cache
+C:\Users\user pc\source\repos\P5_2_1214063\obj\Debug\P5_2_1214063.csproj.CoreCompileInputs.cache
+C:\Users\user pc\source\repos\P5_2_1214063\obj\Debug\P5_2_1214063.exe
+C:\Users\user pc\source\repos\P5_2_1214063\obj\Debug\P5_2_1214063.pdb
+C:\Users\user pc\source\repos\P5_2_1214063\obj\Debug\P5_2_1214063.ChildForm.resources
